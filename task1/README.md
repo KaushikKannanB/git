@@ -1,4 +1,4 @@
-What I learned through this task
+<b>What I learned through this task</b>
 
 * git clone <repository_url> → Clones a remote repository to your local machine.
 * cd <repository_name> → Navigates into the cloned repository.

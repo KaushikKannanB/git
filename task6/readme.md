@@ -1,13 +1,3 @@
-Here’s a well-structured **README.md** file documenting what you did, including the commands used and their explanations:  
-
----
-
-## **Git Stash Workflow Documentation 🚀**
-
-### **Overview**  
-This repository demonstrates the use of `git stash` to temporarily save uncommitted changes, switch branches, and restore the stashed changes before committing them.
-
----
 
 ## **Steps Followed & Commands Used**
 
@@ -16,7 +6,7 @@ Cloning the remote repository to the local system.
 ```sh
 git clone https://github.com/KaushikKannanB/git
 ```
-👉 **Purpose**: Downloads the repository from GitHub.
+
 
 ### **2. Navigate to the Cloned Repository**  
 ```sh
@@ -29,7 +19,6 @@ mkdir task6
 cd task6
 echo try stashing > stask.txt
 ```
-👉 **Purpose**: Creates a folder `task6` and a text file `stask.txt` with sample content.
 
 ### **4. Add File to Staging**  
 ```sh
@@ -92,5 +81,4 @@ git commit -m "Applied Stashing"
 ### **13. Push the Changes to Remote Repository**  
 ```sh
 git push origin main
-```
-👉 **Purpose**: Uploads the committed changes to GitHub.
+``

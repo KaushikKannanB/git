@@ -102,5 +102,3 @@ Using `git rebase`, we:
 ✅ Successfully pushed the changes after rebase.  
 
 ---
-
-This README serves as a reference for `git rebase` operations and best practices. 🚀

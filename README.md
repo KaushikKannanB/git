@@ -7,6 +7,9 @@ Task 2: https://docs.google.com/document/d/1ERdaITgPr7tPNTpP2z2gh-EEIa_yNSYps-XV
 Task 3: https://docs.google.com/document/d/15Q2ApyKkTX0OU2LMETp1N7Ttd7PKzXjc2xRUclFBw6M/edit?usp=sharing
 <br>
 Task 4: https://docs.google.com/document/d/1WlGAFZO3HMX0UPmoqQmvxGTHRirmjRFuEQgI69sbYrs/edit?usp=sharing
+<br>
 Task 5: https://docs.google.com/document/d/148dCSv5feHqZ0ZQIWGrpF8i46_BhOfsr00mZe_HdmgY/edit?usp=sharing
 <br>
 Task 6: https://docs.google.com/document/d/1hENa69jRrqVRjg2s-1tZF1IFxc11ahIsCQ4kcgagjHA/edit?usp=sharing
+<br>
+Task 7: https://docs.google.com/document/d/1a1dlfDoIVlOAHFleHj-NHzF0XztVyCS88CyYBudvKT0/edit?usp=sharing

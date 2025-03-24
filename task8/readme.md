@@ -1,6 +1,3 @@
-# README
-
-## Project Setup and Workflow
 
 ### Cloning the Repository
 To clone the repository from GitHub, run:
@@ -98,11 +95,5 @@ Example errors:
 ```
 Fix unused imports and follow PEP 8 spacing rules before committing again.
 
-### Conclusion
-This setup ensures:
-- Code quality via `flake8` linting
-- Automated lint checks before commits
-- A structured project workflow
 
-For any issues, check Python installation and ensure `flake8` is correctly installed in the system PATH.
 

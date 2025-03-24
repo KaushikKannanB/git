@@ -13,3 +13,5 @@ Task 5: https://docs.google.com/document/d/148dCSv5feHqZ0ZQIWGrpF8i46_BhOfsr00mZ
 Task 6: https://docs.google.com/document/d/1hENa69jRrqVRjg2s-1tZF1IFxc11ahIsCQ4kcgagjHA/edit?usp=sharing
 <br>
 Task 7: https://docs.google.com/document/d/1a1dlfDoIVlOAHFleHj-NHzF0XztVyCS88CyYBudvKT0/edit?usp=sharing
+<br>
+Task 8: https://docs.google.com/document/d/11RLwVnhSIrZ4NHGoFW21HnNpP6GernTPvoNUj1StNH8/edit?usp=sharing

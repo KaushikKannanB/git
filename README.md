@@ -1,4 +1,4 @@
-Here below are the methods, commands I used to complete the given tasks
+<b>Here below are the methods, commands I used to complete the given tasks</b>
 <br>
 Task 1: https://docs.google.com/document/d/1lTXI6QgHBl8SVayyh6NGkJEm_cB2q5os_IeVHZqI4yc/edit?usp=sharing 
 <br>
@@ -17,3 +17,5 @@ Task 7: https://docs.google.com/document/d/1a1dlfDoIVlOAHFleHj-NHzF0XztVyCS88CyY
 Task 8: https://docs.google.com/document/d/11RLwVnhSIrZ4NHGoFW21HnNpP6GernTPvoNUj1StNH8/edit?usp=sharing
 <br>
 Task 9: https://docs.google.com/document/d/1cCBocSPQ9e5lrBrf9y6uu15eu6dlIEncUFdNiI0--U0/edit?usp=sharing
+<br>
+Task 10: https://docs.google.com/document/d/1vk8iWdSOrRv5BYGDvAG0OKPZY5vKkZUdhqZcnjiiPnU/edit?usp=sharing

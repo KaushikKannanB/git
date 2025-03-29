@@ -93,7 +93,9 @@ Example errors:
 .	ask8	est_app.py:1:1: F401 'pytest' imported but unused
 .	ask8	est_app.py:4:1: E302 expected 2 blank lines, found 1
 ```
-Fix unused imports and follow PEP 8 spacing rules before committing again.
+![Screenshot 2025-03-24 235848](https://github.com/user-attachments/assets/d25ad93c-960a-4940-b140-3f8221d862a5)
+![Screenshot 2025-03-25 000000](https://github.com/user-attachments/assets/c35f4c67-b093-4835-a6bb-ae14cfa32cf7)
+![Screenshot 2025-03-25 005614](https://github.com/user-attachments/assets/cc39441c-5a7b-47e1-851b-dc6cc899e042)
 
 
 
